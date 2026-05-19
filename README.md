@@ -186,12 +186,6 @@ GET /{short_code}
 
 ---
 
-# Screenshots
-
-Add screenshots here later.
-
----
-
 # Future Improvements
 
 - User authentication
